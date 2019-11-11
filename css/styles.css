@@ -1,0 +1,44 @@
+body {
+	background-color: #eaf6f6;
+	font-family: "Gill Sans", sans-serif;
+}
+
+hr {
+	color: darkgray;
+	border-style: none;
+	border-top: 8px dotted;
+	width: 5%;
+}
+
+h1 {
+	color: #66bfbf;
+}
+
+h2 {
+	color: #50bfbf;
+}
+
+h3 {
+	color: #50bfbf;
+}
+
+img {
+	border-radius: 100%;
+	height: 250px;
+	width: 250px;
+}
+
+a:hover {
+	color: gold;
+}
+
+.bottomnav {
+	color: darkslategray;
+	font-size: 24px;
+	margin-right: 9px;
+}
+
+.bottomnav:hover {
+	color: lightskyblue;
+	font-style: italic;
+}
